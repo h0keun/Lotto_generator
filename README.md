@@ -10,3 +10,5 @@
 + Random
 + Collection - Set, List
 + 람다함수
+
+### 번호 수동선택 및 랜덤선택 가능
