@@ -1,4 +1,4 @@
-package com.com.fastcampus_1
+package com.com.lotto_generator
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
