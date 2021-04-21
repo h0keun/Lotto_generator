@@ -1,5 +1,4 @@
-## kotlin_project - 로또번호 추첨기
-
+## Lotto_generator
 + ConstraintLayout
 + NumberPicker
 + Shape Drawable
