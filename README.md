@@ -54,6 +54,6 @@
     ...
     ```
   + return@setOnclickListener 처럼 return문 활용가능  
-  + forEach : 자바 for(i : ??){}랑 비슷한듯, 컬렉션타입의 데이터 이용할 때 자주사용 [설명 잘 되어있음](https://ddolcat.tistory.com/561)
+  + forEach : 자바 for(i : ??){}랑 비슷한듯, 컬렉션타입의 데이터 이용할 때 자주사용 👉 [설명 잘 되어있음](https://ddolcat.tistory.com/561)
   + shuffle(), sorted() 등 코틀린에서 제공하는 컬렉션 함수들 많으니까 따로 체크할것.
   + 기능구현 부분은 반복숙달할것.
