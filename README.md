@@ -1,4 +1,6 @@
-## Lotto_generator
+```💡 FastCampus 강의 수강 및 정리```
+
+### Lotto_generator
 + ConstraintLayout
 + NumberPicker
 + Shape Drawable
@@ -12,6 +14,10 @@
 
 ### 기능
 + 번호 수동선택 및 랜덤선택 가능
+
+
+<img src="https://user-images.githubusercontent.com/63087903/119831785-92fc1580-bf38-11eb-96d5-1452c9c183de.jpg" width="200" height="430">
+
 
 ### 2021-04-22
 1. activity_main.xml  
